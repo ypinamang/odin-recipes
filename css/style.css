@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-whole {
+  width: 980px;
+  margin: 0 auto;
+  font-family: "Times New Roman", Verdana, sans-serif;
+}
+
+.subheading {
+  margin-top: 20px;
+}
